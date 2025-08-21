@@ -5,5 +5,5 @@ let num3=input.questionInt("digite o num3:")
 let resp1= num1 +10
 let resp2= num2  -5
 let resp3= num3  +2
-console.log(":",resp1":",resp2":",resp3 );
+console.log("resposta",resp1,resp2,resp3);
 
