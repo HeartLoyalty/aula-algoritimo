@@ -13,3 +13,4 @@ console.log('8 x', Tabuada, "=", Tabuada * 8);
 console.log('9 x', Tabuada, "=", Tabuada * 9);
 console.log('10 x', Tabuada, "=", Tabuada * 10);
 }
+console.log("-----------FIM DA TABUADA-----------");
