@@ -1,5 +1,3 @@
-/node-modules
-*.package-lock.json
-*.package.json
+/paste ignore
 
 
