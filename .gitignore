@@ -1,2 +1,5 @@
-Lista-4/
+/node-modules/
+*.package-lock.json
+*.package.json
+
 
