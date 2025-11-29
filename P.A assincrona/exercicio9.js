@@ -27,6 +27,6 @@ let contadorVogais = 0;
                             contadorVogais ++;
                             }		
 		
-	}
+	};
     //exibe o resultado da contagem mostrando a palavra que foi digitada e o valor das vogais contidas nela//\
 	console.log(`A palavra "${palavra}" tem ${contadorVogais} Vogais.`);
